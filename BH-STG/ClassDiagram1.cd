@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BH_STG.Component">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Game1">
+    <Position X="28" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAAAEAABwAAACAAAAAAAABAAAgAAAAAAAACABQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Program">
+    <Position X="26.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Manager.BulletManager">
+    <Position X="24.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager\BulletManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Manager.EnemyManager">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAASAgAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager\EnemyManager\EnemyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Manager.RegularEnemyManagerType1">
+    <Position X="5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager\EnemyManager\RegularEnemyManagerType1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Manager.RegularEnemyManagerType2">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager\EnemyManager\RegularEnemyManagerType2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Manager.RegularEnemyManagerType3">
+    <Position X="2.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager\EnemyManager\RegularEnemyManagerType3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Manager.TrackManager">
+    <Position X="29.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager\TrackManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Models.Button">
+    <Position X="16.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAwAAAAAAQAAAgAgAAAAAAAAAAqgACAEAAAACAgAAgA=</HashCode>
+      <FileName>Models\Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Models.Input">
+    <Position X="24.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Models\Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Sprites.Boss.FinalBoss">
+    <Position X="10" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwBAAAgAAAAAAAAAAAAACAABAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Boss\FinalBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Sprites.Boss.MidBoss">
+    <Position X="12.25" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAgAAAAAAAAAAAAACAARAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Boss\MidBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Sprites.Bullet">
+    <Position X="1" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAQAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Sprites\Bullet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BH_STG.Sprites.Enemy">
+    <Position X="7.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAQAAAAAAgAAAAAAAAEAAAAAAgAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Sprites\Enemy\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Sprites.RegularEnemyType1">
+    <Position X="3.25" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Enemy\RegularEnemyType1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Sprites.RegularEnemyType2">
+    <Position X="5.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgBAEAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Sprites\Enemy\RegularEnemyType2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Sprites.RegularEnemyType3">
+    <Position X="7.75" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAEoAA=</HashCode>
+      <FileName>Sprites\Enemy\RegularEnemyType3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Sprites.Player">
+    <Position X="14.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAQAgAAACYAADAAAAAAAEAAAAAAgABAAAEAACAAAAAA=</HashCode>
+      <FileName>Sprites\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Sprites.Ship">
+    <Position X="8.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAiAAAAIAABAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Ship.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BH_STG.States.Sprite">
+    <Position X="7.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAABQAABggwAKAAQAAAACggIAABBAAgAAgAAAA=</HashCode>
+      <FileName>Sprites\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.States.GameOver">
+    <Position X="17.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIgAAAABAAAAAAAABAAAAAAAAAAAgAAQ=</HashCode>
+      <FileName>States\GameOver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.States.GameState">
+    <Position X="19.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAEAAAAEAAiAAAABAIAABAACAAAABEBAAAAAAAAQ=</HashCode>
+      <FileName>States\GameState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.States.MenuState">
+    <Position X="22" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIgAAAABAAAAAAAAAAAAAAQAAAAAAAAQ=</HashCode>
+      <FileName>States\MenuState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.States.State">
+    <Position X="19.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgABAABAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>States\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Utils.Config">
+    <Position X="28.5" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="BH_STG.Utils.Config.EnemyType">
+        <TypeIdentifier>
+          <NewMemberFileName>Utils\Config.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="BH_STG.Utils.Config.BulletStyle">
+        <TypeIdentifier>
+          <NewMemberFileName>Utils\Config.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="BH_STG.Utils.Config.TrackStyle">
+        <TypeIdentifier>
+          <NewMemberFileName>Utils\Config.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\Config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Utils.GentleLTrack">
+    <Position X="19.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAABAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Utils\EnemyTrack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Utils.SharpLTrack">
+    <Position X="1.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAgAAAAABAAAAAAIAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Utils\EnemyTrack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Utils.QueueLine">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAgAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Utils\EnemyTrack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Utils.Horizontal">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAIAgAAAAACAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Utils\EnemyTrack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Utils.Midboss_Track">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAgAAAAAIAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Utils\EnemyTrack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Utils.Track">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Utils\Track.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Utils.NormalTrack">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\Track.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Utils.NormalWithBias">
+    <Position X="21.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAACAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Utils\Track.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Utils.CircleTrack">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Utils\Track.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Utils.NormalStayTrack">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\Track.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Utils.TailTrack">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\Track.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BH_STG.Utils.WaveHelper">
+    <Position X="26.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwCAAAAEIAAAQAABAAAIAAAAAMAACACAAABAAQAAAA=</HashCode>
+      <FileName>Utils\WaveHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BH_STG.Interface.ICollidable">
+    <Position X="24.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\ICollidable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

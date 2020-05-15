@@ -1,0 +1,1091 @@
+{
+  "data": [
+    {
+      "_sTimer": 1,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 1,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 3,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 3,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 6,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 342,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType2"
+    },
+    {
+      "_sTimer": 8,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 8,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 8,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 10,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 10,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 10,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 12,
+      "_mTimer": 0,
+      "_dirX": 1,
+      "_dirY": 1,
+      "_posX": 170,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType2"
+    },
+    {
+      "_sTimer": 14,
+      "_mTimer": 0,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": 0,
+      "_posY": 240,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 14,
+      "_mTimer": 100,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": -50,
+      "_posY": 260,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 14,
+      "_mTimer": 200,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": -100,
+      "_posY": 270,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 14,
+      "_mTimer": 300,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": -150,
+      "_posY": 280,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 14,
+      "_mTimer": 400,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": -200,
+      "_posY": 290,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 14,
+      "_mTimer": 500,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": -250,
+      "_posY": 300,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 18,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 488,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 18,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 488,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 18,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 488,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 20,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 20,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 20,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 20,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 320,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 20,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 320,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 20,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 320,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 22,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 128,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 22,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 128,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 22,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 128,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 22,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 270,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 22,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 270,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 22,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 270,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 24,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 240,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 24,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 240,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 24,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 240,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 26,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 462,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 26,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 462,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 26,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 462,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 26,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 50,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 26,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 50,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 26,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 50,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+
+    {
+      "_sTimer": 28,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 320,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 28,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 320,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 28,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 320,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+
+
+
+    {
+      "_sTimer": 30,
+      "_mTimer": 0,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": 0,
+      "_posY": 240,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 30,
+      "_mTimer": 100,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": -50,
+      "_posY": 240,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 30,
+      "_mTimer": 200,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": -100,
+      "_posY": 240,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 30,
+      "_mTimer": 300,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": -150,
+      "_posY": 240,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 30,
+      "_mTimer": 400,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": -200,
+      "_posY": 240,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 30,
+      "_mTimer": 500,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": -250,
+      "_posY": 240,
+      "_ClassName": "RegularEnemyType3"
+    },
+
+
+    {
+      "_sTimer": 33,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 256,
+      "_posY": 0,
+      "_ClassName": "MidBoss"
+    },
+
+
+    {
+      "_sTimer": 52,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 52,
+      "_mTimer": 200,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 52,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 52,
+      "_mTimer": 600,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+
+    {
+      "_sTimer": 54,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 54,
+      "_mTimer": 200,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 54,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 54,
+      "_mTimer": 600,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+
+    {
+      "_sTimer": 57,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 342,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType2"
+    },
+
+    {
+      "_sTimer": 59,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 59,
+      "_mTimer": 200,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 59,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 59,
+      "_mTimer": 600,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 59,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+
+    {
+      "_sTimer": 61,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 61,
+      "_mTimer": 200,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 61,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 61,
+      "_mTimer": 600,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 61,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+
+    {
+      "_sTimer": 63,
+      "_mTimer": 0,
+      "_dirX": 1,
+      "_dirY": 1,
+      "_posX": 170,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+
+    {
+      "_sTimer": 65,
+      "_mTimer": 0,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": 0,
+      "_posY": 240,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 65,
+      "_mTimer": 200,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": -50,
+      "_posY": 240,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 65,
+      "_mTimer": 400,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": -100,
+      "_posY": 240,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 65,
+      "_mTimer": 600,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": -150,
+      "_posY": 240,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 65,
+      "_mTimer": 800,
+      "_dirX": 1,
+      "_dirY": 0,
+      "_posX": -200,
+      "_posY": 240,
+      "_ClassName": "RegularEnemyType3"
+    },
+
+    {
+      "_sTimer": 69,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 69,
+      "_mTimer": 200,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 69,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 69,
+      "_mTimer": 600,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 69,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 448,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+
+    {
+      "_sTimer": 71,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 71,
+      "_mTimer": 200,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 71,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 71,
+      "_mTimer": 600,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType3"
+    },
+    {
+      "_sTimer": 71,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 64,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType3"
+    },
+
+    {
+      "_sTimer": 71,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 320,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 71,
+      "_mTimer": 200,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 320,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 71,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 320,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 71,
+      "_mTimer": 600,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 320,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 71,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 320,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+
+
+    {
+      "_sTimer": 73,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 128,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 73,
+      "_mTimer": 200,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 128,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 73,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 128,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 73,
+      "_mTimer": 600,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 128,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 73,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 128,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+
+
+    {
+      "_sTimer": 73,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 270,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 73,
+      "_mTimer": 200,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 270,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 73,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 270,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 73,
+      "_mTimer": 600,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 270,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 73,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 270,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+
+    {
+      "_sTimer": 75,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 240,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 75,
+      "_mTimer": 200,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 240,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 75,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 240,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 75,
+      "_mTimer": 600,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 240,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 75,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 240,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+
+    {
+      "_sTimer": 77,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 462,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 77,
+      "_mTimer": 200,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 462,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 77,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 462,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 77,
+      "_mTimer": 600,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 462,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 77,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 462,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+
+    {
+      "_sTimer": 77,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 50,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 77,
+      "_mTimer": 200,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 50,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 77,
+      "_mTimer": 400,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX":50,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 77,
+      "_mTimer": 600,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 50,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+    {
+      "_sTimer": 77,
+      "_mTimer": 800,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 50,
+      "_posY": 0,
+      "_ClassName": "RegularEnemyType1"
+    },
+
+    {
+      "_sTimer": 79,
+      "_mTimer": 0,
+      "_dirX": 0,
+      "_dirY": 1,
+      "_posX": 256,
+      "_posY": 0,
+      "_ClassName": "FinalBoss"
+    }
+  ]
+}
